@@ -7,7 +7,7 @@ For this project, we will be exploring the publicly available data from LendingC
 What is the probability that the borrower paid back their loan in full?
 
 ## About the dataset: <br/>
-* The dataset consists of information about the customer like : <br/>
+The dataset consists of information about the customer like : <br/>
 * ID of the customer <br/>
 * If the customer meets the credit underwriting criteria of LendingClub.com or not <br/> 
 * The purpose of the loan(takes values :"creditcard", "debtconsolidation", "educational", "majorpurchase", "smallbusiness", and "all_other"). <br/>
