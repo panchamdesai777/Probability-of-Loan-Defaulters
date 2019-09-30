@@ -24,6 +24,12 @@ The dataset consists of information about the customer like : <br/>
 * The number of times the borrower had been 30+ days past due on a payment in the past 2 years
 * Whether the user has paid back loan
 
+## Things done in project:
+* To calculate the joint probability it's very important that conditions are idependent from each other.check whether the condition fico credit score is greater than 700 and purpose == 'debt_consolidation' are independent from each other.<br/>
+* Calculating conditional probabilty is the very important step. Let's calculate the bayes theorem for the probability of credit policy is yes and the person is given the loan.
+*  visualization of Purpose vs paid back loan
+*  plot the histogram for visualization of the continuous variable. So that you will get the basic idea about how the distribution of continuous variables looks like.
+
 ## Learnings from this project:
 After completing this project, we will have a better understanding of probability. In this project, you will apply the following concepts.
 * Independency check
